@@ -39,9 +39,9 @@ python -m http.server 8000 --directory site   # → http://localhost:8000
 
 > All data in this repository is randomly generated; brand names are anonymized. "EduApp", its logo, people, reviews, statistics, addresses and contacts are fictional. Exam/olympiad names (НЗМ, БИЛ, РФММ, ҰБТ, «Алтын сақа») are public. Classroom photos are free stock images.
 
-## Қысқаша (KZ)
+## Кратко (RU)
 
-Білім беру мектебінің басты бетін SEO үшін қайта жазу: бір HTML файлы (CSS пен JS ішінде), құрастыруды қажет етпейді.
-Қазақша / орысша ауыстыру бет қайта жүктелмей жұмыс істейді, JSON-LD құрылымдық деректері бар.
-`content/` ішінде негізгі Vue-сайтқа арналған мәтіндер картасы (ескі мәтін → жаңа мәтін) бар.
-Іске қосу: `site/index.html` файлын браузерде ашыңыз. Барлық деректер ойдан шығарылған, бренд атаулары өзгертілген.
+SEO-переработка главной страницы образовательной школы: один HTML-файл (CSS и JS внутри), сборка не нужна.
+Переключение казахский / русский без перезагрузки, есть структурированные данные JSON-LD.
+В `content/` — карта текстов (старый текст → новый) для основного Vue-сайта.
+Запуск: откройте `site/index.html` в браузере. Все данные вымышлены, названия брендов изменены.
